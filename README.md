@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm David Orozco, a software engineer 👨‍💻 working remotely since from Colombia 🚀</div>  
+### <div align="center">I'm David Orozco, a software engineer 👨‍💻 working remotely from Colombia 🚀</div>  
   
 
 - 🔭 I’m currently working on [CleanNews](https://cleannews.io)  
